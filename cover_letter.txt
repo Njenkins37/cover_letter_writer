@@ -1,0 +1,13 @@
+I am writing to express my interest in the [position] position at [company name]. I am excited about the opportunity to contribute to your team and make a meaningful impact with my experience in Python, Java, C++, SQL, and data structures and algorithms.
+
+I have recently switched careers from physical therapy to [profession] because I love the [profession] profession, and I am eager to leverage my diverse background and skills to excel in this role. Through my self-driven studies, I have studied coursework that provided a comprehensive understanding of fundamental concepts in data structures and algorithms, which are essential for building efficient and scalable software solutions. Additionally, I have honed my abilities in software development, scripting, and programming through hands-on projects where I gained proficiency in languages such as Java, Python, and JavaScript.
+
+My coursework in database management has equipped me with the knowledge to design and optimize databases, ensuring data integrity and efficiency in storage and retrieval processes. Furthermore, my experience in healthcare has honed my problem-solving skills, as I navigated complex challenges and collaborated with multidisciplinary teams to deliver innovative solutions. This background has instilled in me a deep appreciation for the importance of effective communication, teamwork, and collaboration in achieving project goals.
+
+I am particularly drawn to [company name] because of its reputation for innovation and commitment to improving healthcare outcomes through technology. I am eager to contribute my skills and passion for software engineering to help advance your mission and drive meaningful change in the healthcare industry.
+
+Thank you for considering my application. I am excited about the possibility of joining your team and am available at your earliest convenience for an interview. Please find my resume attached for your review. I look forward to the opportunity to discuss how my experiences and skills align with the needs of [company name].
+
+Warm regards,
+
+Nick Jenkins
